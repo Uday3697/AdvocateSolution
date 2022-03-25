@@ -1,0 +1,25 @@
+[24-Feb-2018 07:54:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/advocate/public_html/includes/database.php on line 5
+[24-Feb-2018 07:54:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/advocate/public_html/home/search_advocate.php on line 103
+[24-Feb-2018 07:54:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/advocate/public_html/home/search_advocate.php on line 104
+[24-Feb-2018 08:05:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'advocate_courtalpha'@'localhost' (using password: YES) in /home/advocate/public_html/includes/database.php on line 5
+[24-Feb-2018 08:05:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/advocate/public_html/home/search_advocate.php on line 103
+[24-Feb-2018 08:05:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/advocate/public_html/home/search_advocate.php on line 104
+[24-Feb-2018 08:05:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'advocate_courtalpha'@'localhost' (using password: YES) in /home/advocate/public_html/includes/database.php on line 5
+[24-Feb-2018 08:05:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/advocate/public_html/home/search_advocate.php on line 103
+[24-Feb-2018 08:05:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/advocate/public_html/home/search_advocate.php on line 104
+[24-Feb-2018 08:12:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'advocate_courtalpha'@'localhost' (using password: YES) in /home/advocate/public_html/includes/database.php on line 5
+[24-Feb-2018 08:12:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/advocate/public_html/home/search_advocate.php on line 103
+[24-Feb-2018 08:12:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/advocate/public_html/home/search_advocate.php on line 104
+[24-Feb-2018 08:41:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'advocate_court'@'localhost' to database 'advocate_courtalpha' in /home/advocate/public_html/includes/database.php on line 5
+[24-Feb-2018 08:41:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/advocate/public_html/home/search_advocate.php on line 103
+[24-Feb-2018 08:41:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/advocate/public_html/home/search_advocate.php on line 104
+[24-Feb-2018 08:55:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'advocate_user'@'localhost' to database 'advocate_court' in /home/advocate/public_html/includes/database.php on line 5
+[24-Feb-2018 08:55:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/advocate/public_html/home/search_advocate.php on line 103
+[24-Feb-2018 08:55:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/advocate/public_html/home/search_advocate.php on line 104
+[24-Feb-2018 08:57:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'advocate_user'@'localhost' to database 'advocate_court' in /home/advocate/public_html/includes/database.php on line 5
+[24-Feb-2018 08:57:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/advocate/public_html/home/search_advocate.php on line 103
+[24-Feb-2018 08:57:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/advocate/public_html/home/search_advocate.php on line 104
+[24-Feb-2018 09:01:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'advocate_user'@'localhost' to database 'advocate_court' in /home/advocate/public_html/includes/database.php on line 5
+[24-Feb-2018 09:01:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/advocate/public_html/home/search_advocate.php on line 103
+[24-Feb-2018 09:01:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/advocate/public_html/home/search_advocate.php on line 104
+[24-Feb-2018 09:09:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/advocate/public_html/home/search_advocate.php on line 104
